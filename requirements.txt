@@ -1,0 +1,6 @@
+dnspython
+beautifulsoup4
+pyperclip
+requests
+pymongo
+pymongo[srv]
